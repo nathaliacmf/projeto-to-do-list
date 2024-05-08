@@ -1,4 +1,4 @@
-###Projeto To-do List
+### Projeto To-do List
 
 Este projeto foi produzido para uma prova de Responsive Web Development da Faculdade Fiap ao qual foi pedido para fazer uma lista de tarefas que faz as seguintes funcionalidades:
 - Adicionar uma tarefa.
