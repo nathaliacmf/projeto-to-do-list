@@ -3,7 +3,7 @@
 Este projeto foi produzido para uma prova de Responsive Web Development da Faculdade Fiap ao qual foi pedido para fazer uma lista de tarefas que faz as seguintes funcionalidades:
 - Adicionar uma tarefa.
 - Deletar uma tarefa.
-- Filtro que mostre se a tarefa esta "Completas" "Incompletas" e "Todas" assim mostrando todas as tarefas adicionadas da sua lista.
+- Filtro que mostra se a tarefa esta "Completas" "Incompletas" e "Todas" assim mostrando todas as tarefas adicionadas da sua lista.
 
 De Bônus adicionei as seguintes funcionalidades também:
 - Uma barra de pesquisa para pesquisar suas respectivas tarefas
